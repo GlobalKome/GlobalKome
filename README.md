@@ -1,4 +1,7 @@
-## Hi there 👋
+## EMMANUEL EZO
+
+- I'm an entry-level analyst by technical skills qualification
+- I am more than my skills, I bring problem-solving enthusiasm, industry knowledge, and adaptability
 
 <!--
 **GlobalKome/GlobalKome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
