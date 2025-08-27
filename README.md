@@ -1,7 +1,8 @@
 ## EMMANUEL EZO
 
-- I'm an entry-level analyst by technical skills qualification
-- I am more than my skills, I bring problem-solving enthusiasm, industry knowledge, and adaptability
+- I'm a curious and resourceful Data Analyst with hands-on experience using Excel, SQL, and Power BI to solve practical business problems.
+- I like transforming data into clear, useful reports that help businesses/companies cut costs, grow revenue, and make confident decisions.
+- I am a practical problem-solver, strong data storyteller, and committed to delivering measurable results.
 
 <!--
 **GlobalKome/GlobalKome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
